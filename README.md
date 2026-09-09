@@ -84,6 +84,6 @@ FY26 Q1
 ### 🔗 Connect
 
 💼 **LinkedIn:** [Bhargavi Bommidala](https://www.linkedin.com/in/BhargaviBommidala)
----
+🐙 **GitHub:** [Bhargavi Bommidala](https://github.com/Bhargavi-Bommidala)
 
 ### 💡 SAP | ABAP | S/4HANA | Cloud | Continuous Improvement
